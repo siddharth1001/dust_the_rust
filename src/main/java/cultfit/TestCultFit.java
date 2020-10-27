@@ -1,10 +1,6 @@
 package cultfit;
 
-import java.nio.charset.Charset;
-import java.util.Date;
-import java.util.Random;
-
-public class TestCureFit {
+public class TestCultFit {
 
     public static void main(String[] args) {
         FitnessCentre centre = new FitnessCentre();
